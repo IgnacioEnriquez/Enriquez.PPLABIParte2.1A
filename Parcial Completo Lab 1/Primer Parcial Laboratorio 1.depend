@@ -1,0 +1,249 @@
+# depslib dependency file v1.0
+1589381184 source:c:\users\nachota-pc\desktop\primer parcial laboratorio 1\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+	"string.h"
+
+1589381400 source:c:\users\nachota-pc\desktop\primer parcial laboratorio 1\colores.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+
+1589381560 source:c:\users\nachota-pc\desktop\primer parcial laboratorio 1\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+
+1589381319 source:c:\users\nachota-pc\desktop\primer parcial laboratorio 1\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+
+1589372279 source:c:\users\nachota-pc\desktop\primer parcial laboratorio 1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+
+1589380962 source:c:\users\nachota-pc\desktop\primer parcial laboratorio 1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+	"string.h"
+
+1589378015 c:\users\nachota-pc\desktop\primer parcial laboratorio 1\trabajo.h
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+
+1589381560 c:\users\nachota-pc\desktop\primer parcial laboratorio 1\colores.h
+	"trabajo.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+
+1589380223 c:\users\nachota-pc\desktop\primer parcial laboratorio 1\bicicletas.h
+	"tipos.h"
+
+1589381585 c:\users\nachota-pc\desktop\primer parcial laboratorio 1\servicios.h
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"validaciones.h"
+	"tipos.h"
+
+1589378015 c:\users\nachota-pc\desktop\primer parcial laboratorio 1\validaciones.h
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"tipos.h"
+
+1589381319 c:\users\nachota-pc\desktop\primer parcial laboratorio 1\tipos.h
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+
+1589381585 source:c:\users\nachota-pc\desktop\primer parcial laboratorio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+
+1589984803 source:c:\users\nachota-pc\desktop\nacho\facultad\programacion\parciales\primer parcial laboratorio 1\enriquezpplab1\primer parcial laboratorio 1\colores.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+
+1589978486 c:\users\nachota-pc\desktop\nacho\facultad\programacion\parciales\primer parcial laboratorio 1\enriquezpplab1\primer parcial laboratorio 1\trabajo.h
+	"colores.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+
+1589984938 c:\users\nachota-pc\desktop\nacho\facultad\programacion\parciales\primer parcial laboratorio 1\enriquezpplab1\primer parcial laboratorio 1\colores.h
+	"trabajo.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+	"clientes.h"
+
+1589981310 c:\users\nachota-pc\desktop\nacho\facultad\programacion\parciales\primer parcial laboratorio 1\enriquezpplab1\primer parcial laboratorio 1\bicicletas.h
+	"tipos.h"
+	"trabajo.h"
+	"clientes.h"
+
+1589982808 c:\users\nachota-pc\desktop\nacho\facultad\programacion\parciales\primer parcial laboratorio 1\enriquezpplab1\primer parcial laboratorio 1\tipos.h
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"clientes.h"
+
+1589910670 c:\users\nachota-pc\desktop\nacho\facultad\programacion\parciales\primer parcial laboratorio 1\enriquezpplab1\primer parcial laboratorio 1\servicios.h
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"validaciones.h"
+	"tipos.h"
+
+1589378015 c:\users\nachota-pc\desktop\nacho\facultad\programacion\parciales\primer parcial laboratorio 1\enriquezpplab1\primer parcial laboratorio 1\validaciones.h
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"tipos.h"
+
+1589984897 source:c:\users\nachota-pc\desktop\nacho\facultad\programacion\parciales\primer parcial laboratorio 1\enriquezpplab1\primer parcial laboratorio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+	"clientes.h"
+
+1589940640 source:c:\users\nachota-pc\desktop\nacho\facultad\programacion\parciales\primer parcial laboratorio 1\enriquezpplab1\primer parcial laboratorio 1\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+
+1589982675 source:c:\users\nachota-pc\desktop\nacho\facultad\programacion\parciales\primer parcial laboratorio 1\enriquezpplab1\primer parcial laboratorio 1\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+
+1589978537 source:c:\users\nachota-pc\desktop\nacho\facultad\programacion\parciales\primer parcial laboratorio 1\enriquezpplab1\primer parcial laboratorio 1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+
+1589984239 source:c:\users\nachota-pc\desktop\nacho\facultad\programacion\parciales\primer parcial laboratorio 1\enriquezpplab1\primer parcial laboratorio 1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+	"string.h"
+
+1589981644 source:c:\users\nachota-pc\desktop\nacho\facultad\programacion\parciales\primer parcial laboratorio 1\enriquezpplab1\primer parcial laboratorio 1\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+	"clientes.h"
+	"string.h"
+
+1589977904 source:c:\users\nachota-pc\desktop\nacho\facultad\programacion\parciales\primer parcial laboratorio 1\enriquezpplab1\primer parcial laboratorio 1\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+	"string.h"
+	"clientes.h"
+
+1589979563 c:\users\nachota-pc\desktop\nacho\facultad\programacion\parciales\primer parcial laboratorio 1\enriquezpplab1\primer parcial laboratorio 1\clientes.h
+	"trabajo.h"
+	"bicicletas.h"
+	"servicios.h"
+	"validaciones.h"
+	"tipos.h"
+	"colores.h"
+
